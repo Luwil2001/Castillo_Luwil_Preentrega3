@@ -80,6 +80,6 @@ Se generan `recurrencia_por_categoria.csv`, `control_calidad.csv` y `recurrencia
 
 ---
 
-**Repositorio:** [github.com/Luwil2001/Castillo_Luwil_Preentrega3.pdf](https://github.com/Luwil2001/Castillo_Luwil_Preentrega3)  
+**Repositorio:** [github.com/Luwil2001/Castillo_Luwil_Preentrega3](https://github.com/Luwil2001/Castillo_Luwil_Preentrega3)  
 **Presentación:** [ver las cinco diapositivas](presentacion/README.md)  
 **LinkedIn:** [perfil de Luwil Castillo](https://www.linkedin.com/in/luwil-castillo-874179324)  
