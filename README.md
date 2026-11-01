@@ -29,7 +29,7 @@ El equipo comercial busca identificar si hay categorías con menor recurrencia p
 
 ## Metodología
 
-El trabajo sigue CRISP-DM de manera incremental: se tradujo la necesidad comercial a una métrica observable, se inspeccionaron los datos, se aplicaron reglas mínimas de validez, se calcularon resúmenes por categoría y se interpretaron los límites de la evidencia. El backlog se organizó en tres sprints de dos semanas. Antes de ampliar cada incremento se validaron con el stakeholder la métrica, las reglas de calidad y la lectura del resultado.
+El trabajo sigue CRISP-DM de manera incremental: se tradujo la necesidad comercial a una métrica observable, se inspeccionaron los datos, se aplicaron reglas mínimas de validez, se calcularon resúmenes por categoría y se interpretaron los límites de la evidencia. El backlog se planificó en tres sprints de dos semanas. El plan prevé revisar cada incremento anterior antes de ampliar el análisis, incluyendo la métrica, las reglas de calidad y la interpretación del resultado.
 
 ## Hallazgos y lectura
 
