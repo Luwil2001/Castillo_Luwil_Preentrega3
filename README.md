@@ -84,6 +84,3 @@ Se generan `recurrencia_por_categoria.csv`, `control_calidad.csv` y `recurrencia
 **Presentación:** [ver las cinco diapositivas](presentacion/README.md)  
 **LinkedIn:** [perfil de Luwil Castillo](https://www.linkedin.com/in/luwil-castillo-874179324)
 
-## Dossier profesional
-
-[Descargar dossier editable en Word](Dossier_Profesional_Luwil_Castillo.docx)
